@@ -1,2 +1,5 @@
 1 - устанавливаем новый проект в созданном каталоге
     npx create-react-app ./ --typescript
+2 - ставим UI фреймворк для реакта
+    npm install material-ui
+    
